@@ -6,6 +6,7 @@
 // import { Login } from "./components/Login";
 
 import { Formularios } from "./components/Formularios";
+import LoginServicenf from "./components/LoginServicenf";
 import { Pais } from "./components/Pais";
 
 // import { Usuarios } from "./components/Usuarios";
@@ -26,7 +27,8 @@ import { Pais } from "./components/Pais";
       {/* <Login/> */}
       {/* <Usuarios/> */}
       {/* <Formularios/> */}
-      <Pais/>
+      {/* <Pais/> */}
+      <LoginServicenf/>
 
     </div>
   )
